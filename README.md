@@ -58,7 +58,7 @@ This script is designed to process images from the Roughly Enough Items mod, spe
 4. Run the script
 
 ## Note
-- You can save this as `README.md`. If you need any further adjustments or additional information, just let me know!
+- If you need any further adjustments or additional information, just let me know!
 - I made this for my modrinth mods to simplify the documentation process
 
 
