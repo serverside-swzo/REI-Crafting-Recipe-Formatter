@@ -54,7 +54,7 @@ This script is designed to process images from the Roughly Enough Items mod, spe
 	│   └── (processed images will be saved here)
 	└── process_images.py
 3. Place your images in the `images` folder.
-4. run `resize-to-450x198.py` if the images in the `images` folder arent of the dimensions 45x198.
+4. run `resize-to-450x198.py` if the images in the `images` folder arent of the dimensions 450x198.
 5. Run the script :`process_images.py`
 
 ## Note
