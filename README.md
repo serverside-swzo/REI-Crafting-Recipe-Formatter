@@ -30,7 +30,7 @@ This script is designed to process images from the Roughly Enough Items mod, spe
 
 ## Important!!
 - Ensure that the input **images are of size 450x198**; otherwise, the script will skip them and print an error message.
-- The **Minecraft GUI scale needs to be set to 3x** for it to work properly!!!!! and this will automattically acheive the **450x198** dimensions when exporting
+- The **Minecraft GUI scale needs to be set to 3x** for it to work properly!!!!! and this will automattically acheive the **450x198** dimensions when exporting if this doesnt work and the image dimensions are different use a converter to change its dimensions and make sure to use nearest neibor
 
 
 ## Requirements
